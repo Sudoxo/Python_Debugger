@@ -1,2 +1,2 @@
 # Python_Debugger
- Simple python debugger which shows changes of variables
+ Simple python debugger which shows changes of variables and arrays
